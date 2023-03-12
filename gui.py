@@ -1,5 +1,5 @@
 from flaskwebgui import FlaskUI
-from stt import stt
+from whisper import stt
 from main import app
 
 
